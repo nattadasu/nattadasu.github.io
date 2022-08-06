@@ -1,9 +1,10 @@
 ---
 title: Hello World
-icon: fas fa-globe
+date: 2022-08-06 15:25:00 +0700
+category: blog
+tags: [hello]
+author: nattadasu
 ---
-
-# Hello World
 
 Sunt consequat id ut dolore laboris ipsum fugiat ad culpa pariatur irure est. Qui anim proident proident do quis. Laborum occaecat non quis aliqua veniam ea. Voluptate laborum nulla consequat minim aliqua consectetur cillum esse eiusmod. Lorem tempor consectetur aliquip quis. Quis nisi cupidatat ullamco commodo sint. Ullamco do sint eu non reprehenderit ex aute proident irure.
 
