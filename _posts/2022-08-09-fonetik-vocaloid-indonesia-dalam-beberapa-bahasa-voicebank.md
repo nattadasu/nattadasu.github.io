@@ -1,3 +1,12 @@
+---
+date: 2022-08-09T19:59:31+07:00
+modified: 2022-08-09T20:15:36+07:00
+title: Fonetik VOCALOID Indonesia dalam Beberapa Bahasa Voicebank
+categories: [Music, Indonesia]
+tags: [VOCALOID, X-SAMPA, Synthesizer, Music Producing, Phonetic, IPA]
+author: nattadasu
+---
+
 Halo semuanya!
 
 Dalam blog ini, gw mau ngebahas gimana sih caranya kita bikin lagu berbahasa Indonesia pakai aplikasi sintesis suara VOCALOID dari Yamaha, yang jelas-jelas cuma ngedukung bahasa Jepang, Inggris, Mandarin, Korea, dan Spanyol.
