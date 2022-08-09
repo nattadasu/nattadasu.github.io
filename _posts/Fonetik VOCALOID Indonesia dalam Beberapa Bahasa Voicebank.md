@@ -1,9 +1,10 @@
 ---
-created: 2022-08-09T19:59:31+07:00
-modified: 2022-08-09T20:06:46+07:00
+date: 2022-08-09T19:59:31+07:00
+modified: 2022-08-09T20:10:20+07:00
+title: Fonetik VOCALOID Indonesia dalam Beberapa Bahasa Voicebank
+categories: [Music, Indonesia]
+tags: [VOCALOID, X-SAMPA, Synthesizer, Music Producing, Phonetic, IPA]
 ---
-
-# Fonetik VOCALOID Indonesia dalam Beberapa Bahasa Voicebank
 
 Halo semuanya!
 
